@@ -7,4 +7,10 @@ This project serves two objectives:
 # 📌 **Overview**
 
 This project will cover the following:
-- 
+- Conduct a high-level analysis of Netflix's subscribers for the years 2022 and 2023.
+- Perform statistical tests to identify which variables impact the churn rate of Netflix's subscribers.
+- Build a Random Forest based on data for the years 2022 and 2023.
+- Use the Random Forest to predict the churn rate for 2024 subscribers data.
+
+# 📂 **Datasets**
+
