@@ -5,3 +5,6 @@ This project serves two objectives:
 2. Predict the churn rate of future customers using a Random Forest.
 
 # 📌 **Overview**
+
+This project will cover the following:
+- 
