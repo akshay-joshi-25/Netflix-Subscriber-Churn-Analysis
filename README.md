@@ -113,4 +113,4 @@ Key Features about the Random Forest:
 - It will predict subscriber churn for 9,516 records (Jan 2024 to June 2024 data) accounting to 19% of the total dataset.
 - It consisted of 100 decision trees.
 
-**Accuracy Rate:** 83.11%
+**Accuracy Rate:** 83.17%
