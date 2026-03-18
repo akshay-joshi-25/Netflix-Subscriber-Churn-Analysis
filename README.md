@@ -13,4 +13,6 @@ This project will cover the following:
 - Use the Random Forest to predict the churn rate for 2024 subscribers data.
 
 # 📂 **Datasets**
+The dataset used for this project were publicly made available by Fatolu Peter on Kaggle. It contained data for the period between Jan 1, 2022 and June 19, 2024.
 
+You can access the dataset by clicking [here](https://www.kaggle.com/datasets/olagokeblissman/netflix-user-behavior-and-subscription-dataset/data).
