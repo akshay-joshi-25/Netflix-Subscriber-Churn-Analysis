@@ -25,4 +25,5 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ol
 # 🧾 **Data Table**
 
 The Netflix Churn Dataset contains the following type of variables:
-**User Demographics**
+
+### **User Demographics**
