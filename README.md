@@ -64,3 +64,14 @@ The Netflix Churn Dataset contained 50,000 records and 29 variables belonging to
 - **days_since_last_watch** - Number of days since the user last watched any content
 - **avg_weekly_watch_time** - Average number of minutes watched per week
 - **content_diversity_score** - Score (0–1) reflecting how varied the user's content consumption is across genres and types
+
+# 📈 **High-Level Analysis**
+
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/1f6caae7-5c31-4a7d-a8e5-51409320e759" />
+
+Overall subscriber volume stayed nearly flat — both years sit just above 20K total subscribers, meaning the platform neither grew nor lost its user base meaningfully between 2022 and 2023. The churn rate increased by 0.4 percentage points year-over-year. While that sounds small, on a ~20K base it represents roughly 80 additional users who cancelled compared to the prior year.
+
+These observations indicate that:
+- **Retention is holding, but softening.** The platform kept ~83% of its users both years, which is a reasonably strong retention rate, but the downward drift suggests the pressure to cancel is gradually increasing.
+- **Growth is stagnant.** If total subscribers are flat while some users are churning, it means new subscriber acquisition is just about offsetting cancellations — the platform is running to stand still.
+- **The churn problem is not improving on its own.** Without an intervention — whether that's improving engagement, adjusting pricing, or upgrading Basic plan users — the 2024 figure would likely continue drifting toward 18% and beyond based on this trend.
