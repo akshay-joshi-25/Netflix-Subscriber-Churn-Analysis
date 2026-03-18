@@ -77,3 +77,8 @@ These observations indicate that:
 - **The churn problem is not improving on its own.** Without an intervention — whether that's improving engagement, adjusting pricing, or upgrading Basic plan users — the 2024 figure would likely continue drifting toward 18% and beyond based on this trend.
 
 # 🧮 **Metrics Impacting Churn Rate - Statistical Analysis**
+
+<img width="1183" height="698" alt="image" src="https://github.com/user-attachments/assets/480bfc7e-1c77-4104-947c-fbb51ffe94ac" />
+
+<img width="1188" height="376" alt="image" src="https://github.com/user-attachments/assets/192da44c-94ac-4ca0-b670-d12a1d795008" />
+
