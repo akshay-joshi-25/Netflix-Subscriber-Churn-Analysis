@@ -27,3 +27,22 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ol
 The Netflix Churn Dataset contains the following type of variables:
 
 ### **User Demographics**
+- user_id - Unique Identifier for each user.
+- age_group - Age of the user in years.
+- gender - Gender of the user.
+- country - Country where the user is located.
+- region - Broader geographic region.
+
+### **Subscription Details**
+- subscription_plan - The tier of Netflix plan the user is subscribed to.
+- monthly_fee - Monthly fee charged to the user in USD.
+- subscription_start_date - Date when the user first subscribed.
+- subscription_end_date - Date when the subscription ended or is due to end.
+- payment_method - Method used to pay for the subscription.
+- discount_applied - Whether a discount was applied to the subscription.
+
+### **Target Variable**
+- churn_status - Whether the user has cancelled their subscription.
+
+### **Content Watched**
+- 
