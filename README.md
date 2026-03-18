@@ -92,3 +92,6 @@ All remaining categorical variables returned p-values well above 0.05, meaning t
 
 <img width="1188" height="376" alt="image" src="https://github.com/user-attachments/assets/192da44c-94ac-4ca0-b670-d12a1d795008" />
 
+The above results clearly demonstrated that FOUR variables - watch_time_minutes, session_count, completion_percentage, and avg_weekly_watch_time significantly impact churn (p = 0.00). This indicates that users who watch less, watch less often, and complete less content are significantly more likely to cancel.
+
+**Key Takeaway:** Only five variables are statistically significant predictors of churn: subscription_plan, watch_time_minutes, session_count, completion_percentage, and avg_weekly_watch_time. Everything else — demographics, payment method, device, region, discounts — shows no statistically meaningful relationship with churn at the 95% confidence level.
