@@ -96,6 +96,8 @@ The above results clearly demonstrated that FOUR variables - watch_time_minutes,
 
 **Key Takeaway:** Only five variables are statistically significant predictors of churn: subscription_plan, watch_time_minutes, session_count, completion_percentage, and avg_weekly_watch_time. Everything else — demographics, payment method, device, region, discounts — shows no statistically meaningful relationship with churn at the 95% confidence level.
 
+You can access the Python code used to conduct the statistical analysis by clicking [here.](https://github.com/akshay-joshi-25/Netflix-Subscriber-Churn-Analysis/blob/main/Netflix%20Subscriber%20Churn%20Analysis.ipynb)
+
 # 🧠 **2024 Netflix Subscribers Churn Prediction - Random Forest**
 
 ### **Random Forest Feature Importance**
@@ -114,3 +116,5 @@ Key Features about the Random Forest:
 - It consisted of 100 decision trees.
 
 **Accuracy Rate:** 83.17%
+
+You can access the Python code used to build the random forest and make predictions by clicking [here.](https://github.com/akshay-joshi-25/Netflix-Subscriber-Churn-Analysis/blob/main/Netflix%20Subscriber%20Churn%20Analysis.ipynb)
