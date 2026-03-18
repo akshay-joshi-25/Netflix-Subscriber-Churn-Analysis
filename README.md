@@ -24,7 +24,7 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ol
 
 # 🧾 **Data Table**
 
-The Netflix Churn Dataset contains the following type of variables:
+The Netflix Churn Dataset contained 50,000 records and 29 variables belonging to the following categories:
 
 ### **User Demographics**
 - **user_id** - Unique Identifier for each user.
