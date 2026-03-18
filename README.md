@@ -98,4 +98,13 @@ The above results clearly demonstrated that FOUR variables - watch_time_minutes,
 
 # 🧠 **2024 Netflix Subscribers Churn Prediction - Random Forest**
 
+### **Random Forest Feature Importance**
+Feature importance measures each variable's proportional share of the total Gini impurity reduction across all 100 decision trees. A higher percentage means the model relied on that variable more heavily when learning to separate churned from active users. All 18 values sum to 100%.
+
 <img width="648" height="628" alt="image" src="https://github.com/user-attachments/assets/d2c559ae-7a2d-452c-b055-cdcc82cf680d" />
+
+The above results showed that FOUR variables - avg_weekly_watch_time, content_diversity_score, days_since_last_watch, and watch_time_minutes collectively account for over 50% of the model's predictive power. The model is essentially saying: how much someone watches, how varied their viewing is, how recently they watched, and how long each session lasts are the strongest behavioural signals of churn risk.
+
+**Key Takeaway:** The Random Forest reinforces the same conclusion as the statistical tests: churn is a behavioural problem, not a demographic one.
+
+### **Predicting using the Random Forest**
