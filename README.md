@@ -78,7 +78,15 @@ These observations indicate that:
 
 # 🧮 **Metrics Impacting Churn Rate - Statistical Analysis**
 
+Two tests were used to identify which variables significantly affect churn:
+- Chi-Square test for categorical variables (p < 0.05 = significant)
+- Independent samples T-test for numeric variables (p < 0.05 = significant)
+
 <img width="1183" height="698" alt="image" src="https://github.com/user-attachments/assets/480bfc7e-1c77-4104-947c-fbb51ffe94ac" />
+
+
+The above results clearly demostrated that subscription_plan is the only categorical variable that significantly affects churn (p = 0.00).
+Basic plan users churn at 25.4%, more than triple the Premium rate of 7.6%, with Standard sitting at 14.9%. Plan tier is the strongest categorical predictor of churn in the dataset.
 
 <img width="1188" height="376" alt="image" src="https://github.com/user-attachments/assets/192da44c-94ac-4ca0-b670-d12a1d795008" />
 
