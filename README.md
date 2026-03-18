@@ -108,3 +108,9 @@ The above results showed that FOUR variables - avg_weekly_watch_time, content_di
 **Key Takeaway:** The Random Forest reinforces the same conclusion as the statistical tests: churn is a behavioural problem, not a demographic one.
 
 ### **Predicting using the Random Forest**
+Key Features about the Random Forest:
+- It was trained on 40,484 records (Jan 2022 to Dec 2023 data) accounting to 81% of the total dataset.
+- It will predict subscriber churn for 9,516 records (Jan 2024 to June 2024 data) accounting to 19% of the total dataset.
+- It consisted of 100 decision trees.
+
+**Accuracy Rate:** 83.11%
