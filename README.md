@@ -16,3 +16,8 @@ This project will cover the following:
 The dataset used for this project were publicly made available by Fatolu Peter on Kaggle. It contained data for the period between Jan 1, 2022 and June 19, 2024.
 
 You can access the dataset by clicking [here](https://www.kaggle.com/datasets/olagokeblissman/netflix-user-behavior-and-subscription-dataset/data).
+
+# 🔧 **Tools Used**
+
+- **Python** was used for statistical analysis and building a random forest.
+- **Excel** was used for data visualization and exploratory data analysis.
