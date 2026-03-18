@@ -97,3 +97,5 @@ The above results clearly demonstrated that FOUR variables - watch_time_minutes,
 **Key Takeaway:** Only five variables are statistically significant predictors of churn: subscription_plan, watch_time_minutes, session_count, completion_percentage, and avg_weekly_watch_time. Everything else — demographics, payment method, device, region, discounts — shows no statistically meaningful relationship with churn at the 95% confidence level.
 
 # 🧠 **2024 Netflix Subscribers Churn Prediction - Random Forest**
+
+<img width="648" height="628" alt="image" src="https://github.com/user-attachments/assets/d2c559ae-7a2d-452c-b055-cdcc82cf680d" />
