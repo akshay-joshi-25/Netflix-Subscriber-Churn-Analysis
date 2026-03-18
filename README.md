@@ -21,3 +21,8 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ol
 
 - **Python** was used for statistical analysis and building a random forest.
 - **Excel** was used for data visualization and exploratory data analysis.
+
+# 🧾 **Data Table**
+
+The Netflix Churn Dataset contains the following type of variables:
+**User Demographics**
