@@ -75,3 +75,5 @@ These observations indicate that:
 - **Retention is holding, but softening.** The platform kept ~83% of its users both years, which is a reasonably strong retention rate, but the downward drift suggests the pressure to cancel is gradually increasing.
 - **Growth is stagnant.** If total subscribers are flat while some users are churning, it means new subscriber acquisition is just about offsetting cancellations — the platform is running to stand still.
 - **The churn problem is not improving on its own.** Without an intervention — whether that's improving engagement, adjusting pricing, or upgrading Basic plan users — the 2024 figure would likely continue drifting toward 18% and beyond based on this trend.
+
+# 🧮 **Metrics Impacting Churn Rate - Statistical Analysis**
