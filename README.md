@@ -27,22 +27,40 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ol
 The Netflix Churn Dataset contains the following type of variables:
 
 ### **User Demographics**
-- user_id - Unique Identifier for each user.
-- age_group - Age of the user in years.
-- gender - Gender of the user.
-- country - Country where the user is located.
-- region - Broader geographic region.
+- **user_id** - Unique Identifier for each user.
+- **age_group** - Age of the user in years.
+- **gender** - Gender of the user.
+- **country** - Country where the user is located.
+- **region** - Broader geographic region.
 
 ### **Subscription Details**
-- subscription_plan - The tier of Netflix plan the user is subscribed to.
-- monthly_fee - Monthly fee charged to the user in USD.
-- subscription_start_date - Date when the user first subscribed.
-- subscription_end_date - Date when the subscription ended or is due to end.
-- payment_method - Method used to pay for the subscription.
-- discount_applied - Whether a discount was applied to the subscription.
+- **subscription_plan** - The tier of Netflix plan the user is subscribed to.
+- **monthly_fee** - Monthly fee charged to the user in USD.
+- **subscription_start_date** - Date when the user first subscribed.
+- **subscription_end_date** - Date when the subscription ended or is due to end.
+- **payment_method** - Method used to pay for the subscription.
+- **discount_applied** - Whether a discount was applied to the subscription.
 
 ### **Target Variable**
-- churn_status - Whether the user has cancelled their subscription.
+- **churn_status** - Whether the user has cancelled their subscription.
 
 ### **Content Watched**
-- 
+- **title** - Title of the content watched.
+- **content_type** - Whether the content is a movie or a series.
+- **genre** - Genre of the content.
+- **language** - Language of the content.
+- **release_year** - Year the content was originally released.
+
+### **User Engagement**
+- **device_type** - Device used to watch content
+- **watch_time_minutes** - Total minutes watched in the recorded session
+- **session_count** - Number of sessions recorded for the user
+- **completion_percentage** - Percentage of the content completed during the session
+- **date_watched** - Date the content was watched
+- **time_of_day** - Time of day the content was watched
+- **rating** - User rating given to the content (1–5 scale)
+- **liked** - Whether the user liked the content
+- **recommendation_source** - How the user discovered the content
+- **days_since_last_watch** - Number of days since the user last watched any content
+- **avg_weekly_watch_time** - Average number of minutes watched per week
+- **content_diversity_score** - Score (0–1) reflecting how varied the user's content consumption is across genres and types
